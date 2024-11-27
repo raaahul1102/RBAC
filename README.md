@@ -9,7 +9,6 @@ This is a **Role-Based Access Control** application built using **Node.js**, **E
 - **Authorization**: Implements Role-Based Access Control for managing user permissions.
 - **MVC Architecture**: Built using the **Model-View-Controller** design pattern for clean and maintainable code.
 - **Database Integration**: Uses **Mongoose** as an ORM for MongoDB to manage user data.
-- 
 ---
 
 ## Prerequisites
